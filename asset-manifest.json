@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linkedinclone/static/css/main.41f71755.css",
+    "main.js": "/linkedinclone/static/js/main.13ea8b48.js",
+    "static/media/code-hobby.jpg": "/linkedinclone/static/media/code-hobby.70706681a6e961152b91.jpg",
+    "static/media/linkedin.png": "/linkedinclone/static/media/linkedin.d21b834035baa551e886.png",
+    "index.html": "/linkedinclone/index.html",
+    "main.41f71755.css.map": "/linkedinclone/static/css/main.41f71755.css.map",
+    "main.13ea8b48.js.map": "/linkedinclone/static/js/main.13ea8b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f71755.css",
+    "static/js/main.13ea8b48.js"
+  ]
+}
